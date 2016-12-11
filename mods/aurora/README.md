@@ -105,6 +105,7 @@ Explosion
 
 ##Combzaprior
 Dex: 10003
+</br>
 ![Electric Type](http://play.pokemonshowdown.com/sprites/types/Electric.png)
 ![Fighting Type](http://play.pokemonshowdown.com/sprites/types/Fighting.png)
 
