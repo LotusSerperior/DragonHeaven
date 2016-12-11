@@ -70,4 +70,18 @@ exports.BattleAbilities = {
 		rating: 3.5,
 		num: 10199,
 	},
+	"combatartist": {
+		shortDesc: "This Pokemon's Fighting-type attacks have their power multiplied by 1.5.",
+		onBasePowerPriority: 8,
+		onBasePower: function (basePower, attacker, defender, move) {
+			if (move.type === 'Fighting') {
+				this.debug('Steelworker boost');
+				return this.chainModify(1.5);
+			}
+		},
+		id: "combatartist",
+		name: "Combat Artist",
+		rating: 4,
+		num: 10200,
+	},
 };
