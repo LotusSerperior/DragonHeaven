@@ -310,6 +310,7 @@ exports.BattleLearnsets = {
 		thundershock: ["7L4"],
 		thunderwave: ["7M", "7L1"],
 		thunderbolt: ["7M", "7L30"],
+		toxic: ["7M"],
 		voltswitch: ["7M", "7L20"],
 		waterpulse: ["7E"],
 		wildcharge: ["7M"],
