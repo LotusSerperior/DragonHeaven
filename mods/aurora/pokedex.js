@@ -84,7 +84,7 @@ exports.BattlePokedex = {
 		prevo: "canos",
 		eggGroups: ["Field"],
 	},
-	combaprior: {
+	combzaprior: {
 		num: 10008,
 		species: "Electric Warrior",
 		types: ["Electric", "Fighting"],
