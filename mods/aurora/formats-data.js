@@ -29,6 +29,10 @@ exports.BattleFormatsData = {
 		randomBattleMoves: ["return", "bonerush", "shadowbone", "howl"],
 		tier: "New",
 	},
+	combzaprior: {
+		randomBattleMoves: ["thunderbolt", "quickspark", "darkpulse", "manipulatingblow"],
+		tier: "New",
+	},
 	doduoistor: {
 		randomBattleMoves: ["bravebird", "impalingfeather", "jumpkick", "roost", "swordsdance"],
 		tier: "LC",
