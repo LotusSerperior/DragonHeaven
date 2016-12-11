@@ -116,4 +116,76 @@ Dex: 10003
 Abilities: Lightningrod, Galvanise, Combat Artist (Hidden Ability)</br>
 Combat Artist: This Pokemon's Fighting-type attacks have their power multiplied by 1.5.</br>
 Height: 3.2 m Weight: 49.4 Kg Color: Black Egg Groups: Human-Like, Field</br>
-<b>###Learnset</b>
+### Learnset: 
+
+Attract
+Aura Sphere
+Brick Break
+Bulk Up
+Captivate
+Calm Mind
+Charge
+Charge Beam
+Confide
+Counter
+Cross Chop
+Cut
+Dazzling Gleam
+Dark Pulse
+Electric Terrain
+Electro Ball
+Endeavor
+Endure
+Facade
+Fire Blast
+Flame Burst
+Flame Charge
+Flamethrower
+Focus Blast
+Focus Punch
+Force Palm
+Frustration
+Grass Knot
+Giga Impact
+Hidden Power
+Hyper Beam
+Manipulating Blow
+Protect
+Quick Spark
+Rain Dnace
+Rest
+Retaliate
+Return
+Revenge
+Reversal
+Rock Smash
+Round
+Shock Wave
+Sleep Talk
+Snore
+Spark
+Substitute
+Thief
+Thunder
+Thunder Punch
+Thunder Shock
+Thunder Wave
+Thunderbolt
+Toxic
+Volt Switch
+Water Pulse
+Wild Charge
+Zap Cannon
+
+# Manipulating Blow: 
+80 Base Power
+Special
+Fighting Type
+Deals damage to the target based on its Defense instead of Special Defense.
+
+# Quick Spark:
+60 Base Power
+Special
+Electric Type
++1 Priority
+Usually goes first.
