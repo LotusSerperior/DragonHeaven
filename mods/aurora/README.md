@@ -177,13 +177,13 @@ Water Pulse
 Wild Charge
 Zap Cannon
 
-# Manipulating Blow: 
+#### Manipulating Blow: 
 80 Base Power
 Special
 Fighting Type
 Deals damage to the target based on its Defense instead of Special Defense.
 
-# Quick Spark:
+#### Quick Spark:
 60 Base Power
 Special
 Electric Type
